@@ -1,0 +1,29 @@
+.heading{
+    color: aquamarine;
+    font-size: 78px;
+    font-style: oblique;
+    background-color: azure;
+}
+
+.heading.small{
+    color: indigo;
+    font-size: 35px;
+    font-style: oblique;
+    background-color: azure;
+}
+
+.ul{
+    list-style-type: square;
+    background-color: azure;
+}
+
+.tacos{
+    height: auto;
+    width: 450px;
+}
+
+p{
+    color: black;
+    font-size: 18px; 
+    background-color: azure;
+}
